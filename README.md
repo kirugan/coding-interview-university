@@ -1169,7 +1169,7 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
     - otherwise, this is just good to know
     - [X] [Khan Academy](https://www.khanacademy.org/computing/computer-science/internet-intro)
     - [X] [UDP and TCP: Comparison of Transport Protocols](https://www.youtube.com/watch?v=Vdc8TCESIg8)
-    - [ ] [TCP/IP and the OSI Model Explained!](https://www.youtube.com/watch?v=e5DEVa9eSN0)
+    - [X] [TCP/IP and the OSI Model Explained!](https://www.youtube.com/watch?v=e5DEVa9eSN0)
     - [X] [Packet Transmission across the Internet. Networking & TCP/IP tutorial.](https://www.youtube.com/watch?v=nomyRJehhnM)
     - [X] [HTTP](https://www.youtube.com/watch?v=WGJrLqtX7As)
     - [ ] [SSL and HTTPS](https://www.youtube.com/watch?v=S2iBR2ZlZf0)
